@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">heera</string>
+    <string name="if_you_are_new_user_to_register_first">if you  are new user to register first</string>
+    <string name="welcome_to_heera_fashion_world">Welcome To Heera Fashion World</string>
+    <string name="Login">Login</string>
+    <string name="register">Register</string>
+    <string name="required">Required</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="pincode">Pincode</string>
+    <string name="address1">Address1</string>
+    <string name="address2">Address2</string>
+    <string name="address3">Address3</string>
+    <string name="address4">Address4</string>
+    <string name="address5">Address5</string>
+    <string name="PhoneNumber">Phone Number</string>
+    <string name="RegisterR">Register</string>
+</resources>
